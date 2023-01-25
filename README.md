@@ -1,16 +1,16 @@
-# Generics, Set e Map - Java
+# Generics - Java
 
 ---
-Generics permitem que classes, interfaces e métodos possam ser
-parametrizados por tipo. Seus benefícios são:
+Generics permitem que classes, interfaces e mÃ©todos possam ser
+parametrizados por tipo. Seus benefÃ­cios sÃ£o:
 
-• Reuso
+â€¢ Reuso
 
-• Type safety
+â€¢ Type safety
 
-• Performance
+â€¢ Performance
 
-• Uso comum: coleções
+â€¢ Uso comum: coleÃ§Ãµes
 
 ~~~~java
 public class Program {
@@ -20,21 +20,21 @@ public class Program {
 }
 ~~~~
 
-### Exercícios 
+### ExercÃ­cios 
 
 ### Problema motivador 1 (reuso)
-Deseja-se fazer um programa que leia uma quantidade N, e depois N números
-inteiros. Ao final, imprima esses números de forma organizada conforme
+Deseja-se fazer um programa que leia uma quantidade N, e depois N nÃºmeros
+inteiros. Ao final, imprima esses nÃºmeros de forma organizada conforme
 exemplo. Em seguida, informar qual foi o primeiro valor informado.
 
 ### Problema motivador 2 (type safety & performance)
 Deseja-se fazer um programa que leia uma quantidade N, e depois N nomes de
-pessoas. Ao final, imprima esses números de forma organizada conforme
+pessoas. Ao final, imprima esses nÃºmeros de forma organizada conforme
 exemplo. Em seguida, informar qual foi o primeiro valor informado.
 
-### Solução com generics
+### SoluÃ§Ã£o com generics
 
-Deseja-se fazer um programa que leia uma quantidade N, e depois N números
-inteiros. Ao final, imprima esses números de forma organizada conforme
+Deseja-se fazer um programa que leia uma quantidade N, e depois N nÃºmeros
+inteiros. Ao final, imprima esses nÃºmeros de forma organizada conforme
 exemplo. Em seguida, informar qual foi o primeiro valor informado.
 
